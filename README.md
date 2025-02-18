@@ -5,8 +5,8 @@ It aims at providing insights on rate of employees attrition in the organisation
 
 **DATASET**
 
-HR Data
+** HR Data
 
 **TOOLS USED**
 
-Power BI
+** Power BI
