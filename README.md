@@ -13,12 +13,13 @@ It aims at providing insights on rate of employees attrition in the organisation
 
 **DATA VISUALIZATIONS**
 
-**EMPLOYEE TOTAL COUNT
+** **EMPLOYEE TOTAL COUNT**:
 The total sum of employee count was obtained by utilising the card visual and dragging the employee count column head to build the visual.
 
-The total employee count was 1,470
-
-
+The total employee count was **1,470**
 
 ** ATTRITION RATE
 
+The attrition rate was obtained through a **new measure** formula: 
+
+**Attrition rate = SUM('HR data'[Attrition Count]) / SUM('HR data'[Employee Count])**
