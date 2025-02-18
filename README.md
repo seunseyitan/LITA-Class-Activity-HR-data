@@ -25,6 +25,10 @@ The total sum of current employee count was visualised using the card visual and
 The total employee count was **1,470**
 
 
+**  **ATTRITION COUNT**
+
+The attrition count was obtained using conditional column 'If, else'
+
 ** **ATTRITION RATE**
 
 The attrition rate was obtained through a **new measure** formula: 
