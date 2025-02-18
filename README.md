@@ -14,8 +14,9 @@ It aims at providing insights on rate of employees attrition in the organisation
 **DATA VISUALIZATIONS**
 
 **EMPLOYEE TOTAL COUNT
+The total sum of employee count was obtained by utilising the card visual and dragging the employee count column head to build the visual.
 
-
+The total employee count was 1,470
 
 
 
