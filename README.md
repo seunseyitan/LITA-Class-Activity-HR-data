@@ -22,12 +22,11 @@ The total employee count was **1,470**
 
 The total sum of current employee count was visualised using the card visual and dragging the **CF_current Employee** column head to build the visual.
 
-The total employee count was **1,470**
+The total sum of current employee count was **1,233**
 
 
 **  **ATTRITION COUNT**
 
-The attrition count was obtained using conditional column 'If, else'
 
 ** **ATTRITION RATE**
 
@@ -37,5 +36,12 @@ The attrition rate was obtained through a **new measure** formula:
  visualised using the card visual.
 
  The attrition rate of employees is 16.12%
+
+ **AVERAGE AGE OF EMPLOYEES**
+ The average age of employees was calculated using the DAX Function 'Average()'.  The average age of employees is **'34 years old'** which was obtained using '**Average Age = AVERAGE('HR data'[Age])**.
+
+**ATTRITION BY GENDER**
+This provide insights on the total number of attrition based on gender.  It can be used to determine whether employees gender is a major determinant for attrition rate.  hether
+ 
 
  
