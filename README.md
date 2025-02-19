@@ -9,7 +9,7 @@ It aims at providing insights on rate of employees attrition in the organisation
 
 **TOOLS USED**
 
-** Power BI
+** Power BI (Query Editor, DAX Functions)
 
 **DATA VISUALIZATIONS**
 
