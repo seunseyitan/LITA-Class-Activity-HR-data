@@ -9,7 +9,7 @@ It aims at providing insights on rate of employees attrition in the organisation
 
 **TOOLS USED**
 
-** Power BI (Query Editor, DAX Functions)
+** Power BI (Query Editor, DAX Functions, Cards, Charts,Slicers, Textbox and Tables)
 
 **DATA VISUALIZATIONS**
 
@@ -44,6 +44,8 @@ The attrition rate was obtained through a **new measure** formula:
 This provide insights on the total number of attrition based on gender and whether employees gender has a major impact on attrition rate or there is gender discrimination in the HR department. 
 Attrition count by gender: Male (150) which is 63.29% of attrition, Female (87, 36.71%).
 The rate of attrition for the male gender is higher than the female, this should be looked into to determine whether there is an underlying determining factor for this or not.
+
+This was visualised using the Pie Charts
 
 **
 
