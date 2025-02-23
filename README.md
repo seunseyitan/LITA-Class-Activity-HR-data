@@ -48,10 +48,14 @@ This was visualised using the Pie Charts
 
 **ATTRITION BY DEPARTMENT**
 
-This visualisation provides the HR with the department with the highest attrition number.  it was visualised using stack column chart. R&D department has the attrition number of **133**, Sales has the second highest with **92** while the HR department has the lowest with attrition number **12**.  Organisation should look into reasons for high attrition number in the R&D and sales department and put in place modalities to reduce the number to the barest minimum.
+This visualisation provides the organisation with the department with the highest attrition number.  it was visualised using stack column chart. R&D department has the attrition number of **133**, Sales has the second highest with **92** while the HR department has the lowest with attrition number **12**.  Organisation should look into reasons for high attrition number in the R&D and sales department and put in place modalities to reduce the number to the barest minimum.
+
+**ATTRITION COUNT BY EDUCATION FIELD**
+The attrition count by education field shows that life sciences has the highest attrition count with a total number of **89**and human resources field with **7**.
+
+**EMPLOYEE SATISFACTION RATING WITH JOB ROLES**
+The attrition values based on employee satisfaction with their job roles shows that employees with job roles in human resources, manager were more dissatisfied that employees in other job roles
 
 
 
- 
 
- 
