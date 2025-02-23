@@ -61,6 +61,8 @@ The rating value was derived using conditional column and the sub heading ('Sati
 
 It was visualised using the matrix visual tool.
 
+**RECOMMENDATION**
 
+Although, the overall rate of attrition can be considered low at 16.12%, the organisation can work towards reducing it.  The high number of attrition in the HR department should be looked into and addressed.  The organisation should ensure that there are no discrimination amongst employee.
 
 
